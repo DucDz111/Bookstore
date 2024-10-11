@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da7f206c-582d-4a9f-a4fb-f181576da553" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/.settings/.jsdtscope" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/.settings/org.eclipse.wst.common.component" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/.settings/org.eclipse.wst.jsdt.ui.superType.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/.settings/org.eclipse.wst.jsdt.ui.superType.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/.settings/org.eclipse.wst.validation.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/Lib/activation-1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/Lib/javax.mail-api-1.6.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/Lib/sqljdbc42.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/404.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/WEB-INF/lib/activation-1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/WEB-INF/lib/hsqldb.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/WEB-INF/lib/javax.mail-api-1.6.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/WEB-INF/lib/jstl.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/WEB-INF/lib/sqljdbc42.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/WEB-INF/lib/standard.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/admin.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/adminNavigation.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/cart.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/chart.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/checkout.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/css/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/css/jquery-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/css/prettyPhoto.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/css/price-range.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/css/responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/edit-user.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/footer.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/forgot.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/images/404/404.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/images/home/ad.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/images/home/bell.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/images/home/bg_border.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/images/home/empty.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/images/home/new.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/images/home/searchicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/images/product-details/new.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/js/Chart.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/js/datatables-modify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/js/html5shiv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/js/jquery-ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/js/jquery.dataTables.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/js/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/js/jquery.prettyPhoto.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/js/jquery.scrollUp.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/js/price-range.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/js/simple-datatables@latest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/left.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/manager-add-product.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/manager-edit-product.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/manager.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/navigation.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/product-details.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/shop.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/simpleNavigation.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/WebContent/table.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/build/classes/beans/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/build/classes/beans/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/build/classes/beans/BookDetail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/build/classes/beans/Cart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/build/classes/beans/Category.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/build/classes/beans/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/build/classes/beans/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/build/classes/beans/OrderDetail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/build/classes/beans/Publisher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/build/classes/beans/Review.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/build/classes/beans/Sub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/build/classes/context/DBContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/build/classes/dao/AccountDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/build/classes/dao/BookDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/build/classes/dao/CategoryDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/build/classes/dao/OrderDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/build/classes/dao/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/build/classes/exception/BookNotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/build/classes/mail/EmailSender$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/build/classes/mail/EmailSender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/build/classes/servlet/AddToCartServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/build/classes/servlet/DetailServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/build/classes/servlet/HomeControl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/build/classes/servlet/LoginServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/build/classes/servlet/LogoutServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/build/classes/servlet/ManagerAddServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/build/classes/servlet/ManagerEditServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/build/classes/servlet/ManagerServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/build/classes/servlet/OrderServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/build/classes/servlet/ReviewServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/build/classes/servlet/SearchServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/build/classes/servlet/ShowCartServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/build/classes/servlet/ShowCategory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/build/classes/servlet/SignUpServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/src/beans/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/src/beans/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/src/beans/BookDetail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/src/beans/Cart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/src/beans/Category.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/src/beans/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/src/beans/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/src/beans/OrderDetail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/src/beans/Publisher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/src/beans/Review.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/src/beans/Sub.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/src/context/DBContext.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/src/dao/AccountDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/src/dao/BookDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/src/dao/CategoryDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/src/dao/OrderDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/src/dao/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/src/exception/BookNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/src/mail/EmailSender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/src/servlet/EmailTestServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/src/servlet/HomeControl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/src/servlet/LoadMoreServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/src/servlet/SearchServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/src/servlet/ShowCategory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/src/servlet/ShowPublisher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/src/servlet/admin_management/AddProductServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/src/servlet/admin_management/AdminControl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/src/servlet/admin_management/DeleteAccountServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/src/servlet/admin_management/DeleteProductServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/src/servlet/admin_management/EditAccountServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/src/servlet/admin_management/EditProductServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/src/servlet/admin_management/ManagerControl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/src/servlet/cart/AddToCartServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/src/servlet/cart/OrderServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/src/servlet/cart/ShowCartServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/src/servlet/detail/DetailServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/src/servlet/detail/ReviewServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/src/servlet/login/ForgotPasswordServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/src/servlet/login/LoginServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/src/servlet/login/LogoutServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/src/servlet/login/SignUpServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/target/classes/beans/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/target/classes/beans/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/target/classes/beans/BookDetail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/target/classes/beans/Cart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/target/classes/beans/Category.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/target/classes/beans/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/target/classes/beans/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/target/classes/beans/OrderDetail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/target/classes/beans/Publisher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/target/classes/beans/Review.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/target/classes/beans/Sub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/target/classes/context/DBContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/target/classes/dao/AccountDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/target/classes/dao/BookDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/target/classes/dao/CategoryDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/target/classes/dao/OrderDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/target/classes/dao/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/target/classes/exception/BookNotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/target/classes/mail/EmailSender$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/target/classes/mail/EmailSender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/target/classes/servlet/EmailTestServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/target/classes/servlet/HomeControl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/target/classes/servlet/LoadMoreServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/target/classes/servlet/SearchServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/target/classes/servlet/ShowCategory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/target/classes/servlet/ShowPublisher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/target/classes/servlet/admin_management/AddProductServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/target/classes/servlet/admin_management/AdminControl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/target/classes/servlet/admin_management/DeleteAccountServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/target/classes/servlet/admin_management/DeleteProductServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/target/classes/servlet/admin_management/EditAccountServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/target/classes/servlet/admin_management/EditProductServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/target/classes/servlet/admin_management/ManagerControl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/target/classes/servlet/cart/AddToCartServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/target/classes/servlet/cart/OrderServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/target/classes/servlet/cart/ShowCartServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/target/classes/servlet/detail/DetailServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/target/classes/servlet/detail/ReviewServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/target/classes/servlet/login/ForgotPasswordServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/target/classes/servlet/login/LoginServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/target/classes/servlet/login/LogoutServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/target/classes/servlet/login/SignUpServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/target/m2e-wtp/web-resources/META-INF/maven/ProjectRING/ProjectRING/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ProjectRING/target/m2e-wtp/web-resources/META-INF/maven/ProjectRING/ProjectRING/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/SQL/RING.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/Servers/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/Servers/.settings/org.eclipse.wst.server.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/Servers/Tomcat v9.0 Server at localhost-config/catalina.policy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/Servers/Tomcat v9.0 Server at localhost-config/catalina.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/Servers/Tomcat v9.0 Server at localhost-config/context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/Servers/Tomcat v9.0 Server at localhost-config/server.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/Servers/Tomcat v9.0 Server at localhost-config/tomcat-users.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/Servers/Tomcat v9.0 Server at localhost-config/web.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="12fb1b68-15ef-4e51-9267-a5c2186113f4" />
+        <option name="url" value="https://github.com/DucDz111/Bookstore" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="2Y70YBf3TEiJ8D0TpyM7RnakJ16" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 10.1.15" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.15" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="11" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="0d50f4e9-6459-4ba0-bb76-6e990788a0b7" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52258" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da7f206c-582d-4a9f-a4fb-f181576da553" name="Changes" comment="" />
+      <created>1699861355695</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699861355695</updated>
+      <workItem from="1699861357293" duration="1168000" />
+      <workItem from="1699862550051" duration="18000" />
+      <workItem from="1701362543683" duration="1645000" />
+      <workItem from="1702394989131" duration="839000" />
+      <workItem from="1702560618153" duration="54000" />
+      <workItem from="1728637080599" duration="1245000" />
+      <workItem from="1728638354902" duration="58000" />
+      <workItem from="1728638442543" duration="32000" />
+      <workItem from="1728638491430" duration="105000" />
+      <workItem from="1728638921407" duration="421000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
